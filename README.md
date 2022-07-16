@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Full stack Developer || App Development || Web 3 Developer</h3>
 
+<h3 align="left">About Me:</h3>
 - 🌱 I’m currently learning **DevOps Tools**
 
 - 👨‍💻You can check my Portfolio at [https://personal-portfolio-rosy-seven.vercel.app/](https://personal-portfolio-rosy-seven.vercel.app/)
@@ -9,7 +10,7 @@
 
 - ⚡My Rules **DRY - Don't Repeat Yourself**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
