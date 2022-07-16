@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Abhishek
 
-**abhisheksingh-jsdev/abhisheksingh-jsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some details About Me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
